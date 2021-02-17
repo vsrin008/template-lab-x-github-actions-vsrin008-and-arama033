@@ -8,14 +8,14 @@ void Rectangle::set_width(int w) { width = w; }
 
 void Rectangle::set_height(int h) { height = h; }
 
-int Rectangle::get_width() { return width; }
+int Rectangle::get_width() { return height; }
 
-int Rectangle::get_height() { return height; }
+int Rectangle::get_height() { return width; }
 
 int Rectangle::perimeter(){
-return 2*(width +height);
+return 3*(width +height);
 }
 
 int Rectangle::area(){
-return width *height;
+return 10;
 } 
