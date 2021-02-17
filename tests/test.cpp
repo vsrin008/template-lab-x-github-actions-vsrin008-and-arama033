@@ -1,4 +1,4 @@
-nclude "gtest/gtest.h"
+#include "gtest/gtest.h"
 #include "../header/rectangle.hpp"
 
 TEST(PerimeterTest,NormalInput) {
