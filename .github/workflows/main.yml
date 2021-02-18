@@ -37,5 +37,5 @@ jobs:
           
       - name: run the failing tests
         run: 
-            cmake . 
-            make 
+            cmake .
+            cmake --build .
