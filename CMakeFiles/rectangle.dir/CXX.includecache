@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/class/classes/vsrin008/template-lab-x-github-actions-vsrin008-and-arama033/header/rectangle.hpp
+
+/class/classes/vsrin008/template-lab-x-github-actions-vsrin008-and-arama033/src/main.cpp
+
+/class/classes/vsrin008/template-lab-x-github-actions-vsrin008-and-arama033/src/rectangle.cpp
+../header/rectangle.hpp
+/class/classes/vsrin008/template-lab-x-github-actions-vsrin008-and-arama033/header/rectangle.hpp
+
